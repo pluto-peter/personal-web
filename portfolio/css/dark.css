@@ -1,0 +1,12 @@
+:root{
+	--mainBgColor: #363f38;
+	--contBackground: #3d423e;
+	--headerColor: #f8fbfd;
+	--pColor: #f8f9f5;
+	--btnColor: #5a5a5e;
+	--btnHover: #161516;
+	--spanColor: rgb(230, 230, 235);
+	--barColor: #222227;
+	--navColor: aliceblue;
+	--bgPicture: url(../images/pexels-markus-spiske-4383298.jpg);
+}

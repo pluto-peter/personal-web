@@ -1,0 +1,12 @@
+:root{
+	--mainBgColor: #76f58b;
+	--contBackground: #a7f0b3;
+	--headerColor: black;
+	--pColor: #353839;
+	--btnColor: #0ca506;
+	--btnHover: #015313;
+	--spanColor: green;
+	--barColor: #096b0e;
+	--navColor: aliceblue;
+	--bgPicture: url(../images/pexels-daria-liudnaya-7354639.jpg);
+}
